@@ -1,4 +1,4 @@
-# MyLP
+# MyLP (ShoeBrand)
 
 Revyu Landing Page Developement Training Project
 
